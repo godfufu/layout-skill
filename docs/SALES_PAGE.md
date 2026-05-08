@@ -59,12 +59,12 @@ Claude/Codex skill:
 - PDF generator
 - browser zone picker
 - AI prompt exporter
-- update access according to tier
+- update access for the current paid source repository
 
 ## Call To Action
 
-Buy a Solo, Studio, or Enterprise license. During checkout, enter the GitHub
-username that should receive private repository access.
+Buy the **Layout Skill License** for **USD $5 one-time**. During checkout,
+enter the GitHub username that should receive private repository access.
 
 Purchase link:
 

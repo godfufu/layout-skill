@@ -39,16 +39,11 @@ Layout Skill is sold as a commercial source-available tool. Paid customers get:
 
 - private repository access
 - installation documentation
-- update access
-- support according to license tier
+- update access for the current paid source repository
 
-## Pricing
+## Price
 
-Suggested starting tiers:
-
-- Solo: one user, private repo access, updates
-- Studio: small team access and priority support
-- Enterprise: custom deployment, training, and invoice support
+**USD $5 one-time** for the **Layout Skill License**.
 
 ## Buy
 
