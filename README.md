@@ -52,7 +52,11 @@ Suggested starting tiers:
 
 ## Buy
 
-Contact the maintainer or use the configured purchase link.
+Use the Paddle checkout link:
 
-After purchase, send your GitHub username so repository access can be granted.
+```text
+TODO_PADDLE_CHECKOUT_LINK
+```
 
+During checkout, enter your GitHub username so repository access can be granted
+automatically.

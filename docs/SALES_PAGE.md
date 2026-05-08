@@ -63,8 +63,13 @@ Claude/Codex skill:
 
 ## Call To Action
 
-Buy a Solo, Studio, or Enterprise license. After payment, send your GitHub
-username to receive private repository access.
+Buy a Solo, Studio, or Enterprise license. During checkout, enter the GitHub
+username that should receive private repository access.
+
+Purchase link:
+
+```text
+TODO_PADDLE_CHECKOUT_LINK
+```
 
 See [BUYING.md](BUYING.md).
-
