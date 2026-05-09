@@ -49,10 +49,10 @@ Layout Skill is sold as a commercial source-available tool. Paid customers get:
 
 ## Buy
 
-Use the Paddle checkout link:
+Use the Creem checkout link:
 
 ```text
-TODO_PADDLE_CHECKOUT_LINK
+TODO_CREEM_CHECKOUT_LINK
 ```
 
 During checkout, enter your GitHub username so repository access can be granted

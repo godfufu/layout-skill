@@ -73,7 +73,7 @@ enter the GitHub username that should receive private repository access.
 Purchase link:
 
 ```text
-TODO_PADDLE_CHECKOUT_LINK
+TODO_CREEM_CHECKOUT_LINK
 ```
 
 See [BUYING.md](BUYING.md).

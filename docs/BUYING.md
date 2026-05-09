@@ -12,7 +12,7 @@ One plan only:
 
 ## Purchase Flow
 
-1. Pay through the Paddle checkout link.
+1. Pay through the Creem checkout link.
 2. Enter the GitHub username that should receive repository access.
 3. Receive an automatic invite to the private source repository.
 4. Clone the repository and run `./install.sh`.
@@ -21,7 +21,7 @@ One plan only:
 ## Purchase Link
 
 ```text
-TODO_PADDLE_CHECKOUT_LINK
+TODO_CREEM_CHECKOUT_LINK
 ```
 
 ## Access Management
