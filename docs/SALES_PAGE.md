@@ -72,8 +72,7 @@ enter the GitHub username that should receive private repository access.
 
 Purchase link:
 
-```text
-TODO_CREEM_CHECKOUT_LINK
-```
+The live checkout link will be added after payment provider approval.
+For pre-release access or purchase questions, email `godfufu@icloud.com`.
 
 See [BUYING.md](BUYING.md).

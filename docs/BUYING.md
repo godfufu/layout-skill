@@ -20,9 +20,9 @@ One plan only:
 
 ## Purchase Link
 
-```text
-TODO_CREEM_CHECKOUT_LINK
-```
+The live checkout link will be added after payment provider approval.
+
+For pre-release access or purchase questions, email `godfufu@icloud.com`.
 
 ## Access Management
 

@@ -49,11 +49,9 @@ Layout Skill is sold as a commercial source-available tool. Paid customers get:
 
 ## Buy
 
-Use the Creem checkout link:
+The live checkout link will be added after payment provider approval.
 
-```text
-TODO_CREEM_CHECKOUT_LINK
-```
+For pre-release access or purchase questions, email `godfufu@icloud.com`.
 
 During checkout, enter your GitHub username so repository access can be granted
 automatically.
