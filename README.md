@@ -6,7 +6,8 @@ Turn DWG floor plans into planning PDFs and AI rendering prompts in minutes.
 
 Layout Skill is a local-first workflow for commercial planning teams. It helps
 you convert CAD drawings, mark functional zones visually, describe each zone,
-and export client-ready planning documents.
+export client-ready planning documents, and generate source-constrained AI
+rendering prompts.
 
 ## Demo
 
@@ -20,7 +21,8 @@ and export client-ready planning documents.
 - Optional CloudConvert fallback
 - Browser-based zone selection
 - Clean PDF planning sheet generation
-- AI prompt export for Midjourney, DALL-E, Stable Diffusion, and similar tools
+- Source-constrained AI prompt export for Midjourney, DALL-E, Stable Diffusion, and similar tools
+- Whole-plan AI reference maps and per-zone crop images for layout-faithful rendering
 - Commercial source-available license for paid customers
 
 ![Workflow](assets/workflow.png)

@@ -30,9 +30,14 @@
 
 ## AI Prompt Output
 
-- Generates master plan prompts.
-- Generates zone-specific rendering prompts.
+- Generates source-constrained master plan prompts.
+- Generates zone-specific rendering prompts with position, scale, boundary, and adjacency context.
 - Exports JSON, TXT, and Markdown.
+- Exports a whole-plan AI reference map.
+- Exports per-zone reference crop images.
+- Marks prompts as reference-image required, because text-only prompts cannot guarantee layout fidelity.
+- Includes model-specific usage notes for Midjourney, DALL-E, Stable Diffusion, and ControlNet workflows.
+- Preserves the original footprint, walls, corridors, entrances, and zone placement while allowing materials, furniture, lighting, signage, activity, and atmosphere to change.
 - Works with Midjourney, DALL-E, Stable Diffusion, and similar image tools.
 
 ## Agent Integration
@@ -47,4 +52,3 @@
 - Public marketing materials.
 - Private paid repository workflow.
 - Release checklist and sales plan included.
-
